@@ -1,0 +1,23 @@
+site_name: Boss Lab Player Guide
+site_url: https://boss-lab-player-guide.readthedocs.io/en/latest/
+site_description: Multilingual player reference for Boss Lab, the Android robot boss-builder auto-battler, written by the developer Boss Lab Studio.
+site_author: Boss Lab Studio
+repo_url: https://github.com/bosslabstudio/boss-lab-player-guide
+edit_uri: blob/main/docs/
+copyright: Boss Lab Studio — the developer of Boss Lab
+
+theme:
+  name: readthedocs
+  locale: en
+  navigation_depth: 2
+
+nav:
+  - Home: index.md
+  - Español: es.md
+  - Português (Brasil): pt-br.md
+  - Deutsch: de.md
+  - Français: fr.md
+  - Русский: ru.md
+  - Türkçe: tr.md
+  - Italiano: it.md
+  - Polski: pl.md
